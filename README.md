@@ -1,2 +1,0 @@
-# VueWebpackDemo
-VueWebpackDemo

@@ -1,30 +1,33 @@
-# hello_world_webpack
+# VueWebpackDemo
 
-> A Vue.js project
+> A Vue+Webpack project demo
+> 
+> 学习、练习使用
+> 
+> 代码目前尚未优化
 
-## Build Setup
+## 下载完成之后执行npm的安装
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动
 npm run dev
 
-# build for production with minification
+# 构建生产版本
 npm run build
 
-# build for production and view the bundle analyzer report
+# 构建生产版本并查看包分析报告
 npm run build --report
 
-# run unit tests
+# 运行单元测试
 npm run unit
 
-# run e2e tests
+# 运行 e2e 测试
 npm run e2e
 
-# run all tests
+# 运行所有测试
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
